@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(49, 49, 237, 0.575);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    font-size: 10px;
+}
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    margin-top:  auto;
+    background: linear-gradient(to top, #33ccff47 0%, #ff99cc 100%);
+    border-radius: 10px;
+    display: inline-block;
+    padding: 20px;
+
+
+}
+.box{
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 50px;
+    padding: 20px;
+}
+h2{
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    margin-top:  auto;
+    background: linear-gradient(to top, #33ccff47 0%, #ff99cc 100%);
+    border-radius: 10px;
+    display: inline-block;
+    padding: 20px;
+}
